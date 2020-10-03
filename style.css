@@ -28,7 +28,7 @@ p {
 } 
 
 .container {
-    background:url('images/eu_versailles.jpg') no-repeat center center/cover;
+    background:url('https://manoelapimenta.github.io/projeto-final-womakers-code/images/versailles.jpg') no-repeat center center/cover;
     width: 100%;
     height: 95vh;
     display: flex;
